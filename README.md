@@ -5,8 +5,7 @@
 <td>
 
 Hi! I'm exploring and growing in the world of Artificial Intelligence and Machine Learning.  
-I genuinely enjoy figuring things out, especially when it feels like the work could actually solve real-world problems. That's what draws me deeper into AI-ML every day.  
-I'm always on the lookout for opportunities where I can learn, build, and make a real impact.  
+I genuinely enjoy figuring things out, especially when it feels like it could solve real-world problems. That's what draws me deeper into AI-ML every day.  
 Outside of tech, I'm someone who loves trying out different things, curious by nature, and always ready to jump into something new just to see where it leads.
 
 </td>
