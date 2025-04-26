@@ -8,7 +8,6 @@ Hi! I'm exploring and growing in the world of Artificial Intelligence and Machin
 I genuinely enjoy figuring things out, especially when it feels like it 
 could solve real-world problems.  
 That's what draws me deeper into AI-ML every day.  
-
 Outside of tech, I'm someone who loves trying out different things, curious by nature,  
 and always ready to jump into something new just to see where it leads.
 
