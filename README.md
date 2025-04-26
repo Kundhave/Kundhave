@@ -1,5 +1,5 @@
 # ✨ About Me:
-**AI-ML Developer | Web Developer | CSE-Undergrad | Sophomore | Amrita Vishwa Vidyapeetham**
+**AI-ML | Web | CSE-Undergrad | Sophomore | Amrita Vishwa Vidyapeetham**
 <table>
 <tr>
 <td>
