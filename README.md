@@ -1,9 +1,10 @@
 # ✨ About Me:
 **AI-ML Developer | Web Developer | Sophomore**
 
+<p align="center">
 <table>
 <tr>
-<td>
+<td valign="top" width="60%">
 
 Hi! I'm a CSE undergrad at Amrita Vishwa Vidyapeetham, exploring and growing in the world of Artificial Intelligence and Machine Learning.  
 I genuinely enjoy figuring things out, especially when it feels like the work could actually solve real-world problems. That's what draws me deeper into AI-ML every day.  
@@ -11,13 +12,14 @@ I'm always on the lookout for opportunities where I can learn, build, and make a
 Outside of tech, I'm someone who loves trying out different things, curious by nature, and always ready to jump into something new just to see where it leads.
 
 </td>
-<td>
+<td align="center" width="40%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200"/>
 
 </td>
 </tr>
 </table>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.kundhave/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundhave-srinivasan-3899442a8/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@KundhaveSr9102) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kundhave05@gmail.com) 
