@@ -1,4 +1,4 @@
-# ･ﾟ✧ About Me ✧･ﾟ
+# ✧ About Me :
 
 
 **AI-ML Developer | Web Developer | Sophomore**
