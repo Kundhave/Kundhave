@@ -2,7 +2,7 @@
 
 **AI-ML Developer | Web Developer | Sophomore**
 
-Hi! I'm CSE undergrad at Amrita Vishwa Vidyapeetham, exploring and growing in the world of Artificial Intelligence and Machine Learning. <br>I genuinely enjoy figuring things out — especially when it feels like the work could actually solve real-world problems. That's what draws me deeper into AI-ML every day. <br>I'm always on the lookout for opportunities where I can learn, build, and make a real impact. <br>Outside of tech, I'm someone who loves trying out different things, curious by nature, and always ready to jump into something new just to see where it leads.<br><br>
+Hi! I'm CSE undergrad at Amrita Vishwa Vidyapeetham, exploring and growing in the world of Artificial Intelligence and Machine Learning. <br>I genuinely enjoy figuring things out, especially when it feels like the work could actually solve real-world problems. That's what draws me deeper into AI-ML every day. <br>I'm always on the lookout for opportunities where I can learn, build, and make a real impact. <br>Outside of tech, I'm someone who loves trying out different things, curious by nature, and always ready to jump into something new just to see where it leads.<br><br>
 
 
 ## 🌐 Socials:
