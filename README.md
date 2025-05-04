@@ -1,7 +1,7 @@
 # ✨ About Me:
 **AI-ML | Web | CSE-Undergrad | Sophomore | Amrita Vishwa Vidyapeetham**
 <table>
-<tr>
+<tr> 
 <td>
 
 Hi! I'm exploring and growing in the world of Artificial Intelligence and Machine Learning.  
