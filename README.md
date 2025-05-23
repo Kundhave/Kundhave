@@ -4,7 +4,7 @@
 <tr> 
 <td>
 
-Hi! I'm exploring and growing in the world of Artificial Intelligence and Machine Learning.  
+Hi! I'm diving into the world of Artificial Intelligence and Machine Learning.  
 I genuinely enjoy figuring things out, especially when it feels like it 
 could solve real-world problems.  
 That's what draws me deeper into AI-ML every day.  
