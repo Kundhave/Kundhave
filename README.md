@@ -5,6 +5,7 @@
 <td>
 
 Hey! I’m diving into Artificial Intelligence and Machine Learning through hands-on projects.
+
 I genuinely enjoy figuring things out, especially when it feels like it 
 could solve real-world problems.  
 That's what draws me deeper into AI-ML every day.  
