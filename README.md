@@ -9,7 +9,7 @@ I build event-driven backend systems and integrate machine learning into real-wo
 
 My work focuses on scalable APIs, distributed processing, reliability engineering, and secure cloud-native architectures. I care deeply about clean system design, deterministic validation, and responsible AI integration.
 
-I’m driven by curiosity, comfortable with complexity, and always looking to build systems that are both technically sound and practically impactful.
+I’m driven by curiosity and is always looking to build systems that are both technically sound and practically impactful.
 
 </td>
 <td>
