@@ -1,49 +1,51 @@
-# ✨ About Me:
+# ✨ About Me
 **Backend & AI Systems Engineer | CSE Undergrad | Amrita Vishwa Vidyapeetham**
 
 <table>
 <tr> 
 <td>
 
-Hey! I’m a Computer Science undergraduate focused on building backend systems and AI-driven applications.
-I enjoy designing event-driven architectures, secure APIs, and reliable service pipelines.  
-Most of my work revolves around distributed systems, cloud-based infrastructure, and applied machine learning in production-style environments.
-I’m especially interested in how backend systems scale, how reliability is engineered, and how machine learning can be integrated responsibly into real-world systems.
-Outside of tech, I’m naturally curious, love exploring new ideas, and constantly push myself into unfamiliar problem spaces just to learn something deeper.
+I build event-driven backend systems and integrate machine learning into real-world applications.
+
+My work focuses on scalable APIs, distributed processing, reliability engineering, and secure cloud-native architectures. I care deeply about clean system design, deterministic validation, and responsible AI integration.
+
+I’m driven by curiosity, comfortable with complexity, and always looking to build systems that are both technically sound and practically impactful.
 
 </td>
 <td>
 
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200"/>
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="180"/>
 
 </td>
 </tr>
 </table>
 
+---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ### 🧠 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2300748F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300748F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚙️ Backend & Systems
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-%2337801D.svg?style=for-the-badge&logo=celery&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST-000000?style=for-the-badge)
 
 ### 🗄 Databases
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 AI / ML
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-%232C3E50.svg?style=for-the-badge)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-2C3E50?style=for-the-badge)
 
-### ☁️ Cloud Platforms
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### ☁️ Cloud
+![Microsoft Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 
